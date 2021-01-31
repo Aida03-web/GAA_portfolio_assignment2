@@ -1,0 +1,49 @@
+.html, body{
+    background-color: rgb(17, 68, 24);
+    background: linear-gradient(90deg, rgb(39, 49, 49) 0%, rgb(60, 121, 116) 35%, rgb(30, 145, 139) 100%);
+}
+
+.display{
+    font-family: 'Shadows Into Light', cursive;
+    color:rgb(23, 82, 62)
+ }
+ .container{
+     font-family: 'Shadows Into Light', cursive;
+     font-size: 25px;
+     color:rgb(6, 43, 32)
+     
+  }
+
+
+.masonary{
+    display: flex;
+    flex-direction: row;
+    max-height: 1800px;
+    margin: auto;
+    width: 100%;
+}
+.col{
+    display:flex;
+    flex-direction: column;
+    width: 33%;
+}
+.m-block{
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+}
+.m-block img{
+    width: 100%;
+    cursor: pointer;
+}
+.m-block img{
+    width: 100%;
+    cursor: pointer;
+    transition: transform 1s;
+}
+.m-block img:hover{
+    transform: scale(1.05);
+    width: 100%;
+}
+
+  

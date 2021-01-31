@@ -1,0 +1,28 @@
+.html, body{
+    background-image: url(https://images.unsplash.com/photo-1543781363-aa532fb5b77f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1100&q=80);
+    
+}
+.display{
+    background-color: rgba(22, 13, 13, 0.767);
+    font-family: 'Shadows Into Light', cursive;
+    
+    font-size: 30px;
+}
+.jumbotron {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px; 
+}
+.contact{
+
+    margin: 30px 300px 30px 30px;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
+a.bb{
+    margin: 0px 80px 30px 30px; 
+    font-size: 20px;
+    color:white;
+}
+
+
+
